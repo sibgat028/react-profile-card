@@ -1,5 +1,10 @@
 # 🌟 React Profile Card (Day 1)
 
+## 🚀 Live Demo
+https://react-profile-card-pearl.vercel.app/
+
+
+
 This is my **Day 1 React project** from my React Roadmap Journey.
 
 A simple Profile Card built using:
